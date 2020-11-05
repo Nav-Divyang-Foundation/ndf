@@ -354,9 +354,9 @@ p {
 #donor .donor {
 	flex-direction: column-reverse;
 	text-align: center;
-	max-width: 1200px;
 	margin: 0 auto;
 	padding: 100px 20px;
+	background-image: linear-gradient(60deg, darkorange, rgb(255, 208, 0));
 }
 
 /* End Donor Section */
