@@ -228,24 +228,19 @@ p {
 }
 #homes .home-bottom {
 	display: flex;
-	align-items: center;
 	justify-content: center;
 	flex-wrap: wrap;
 	margin-top: 50px;
 }
 #homes .home-item {
-	flex-basis: 80%;
-	display: flex;
-	align-items: flex-start;
-	justify-content: center;
-	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(.png);
 	background-size: cover;
-	margin: 10px 5%;
+	margin: 5%;
 	position: relative;
 	overflow: hidden;
+	height: auto;
+	/* font-weight: bold; */
 }
 
 #homes .home-item-2 {
