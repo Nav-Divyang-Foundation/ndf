@@ -340,7 +340,7 @@ p {
 	margin-bottom: 5px;
 }
 #contact .contact-info h2 {
-	font-size: 1.3rem;
+	font-size: 12px;
 	line-height: 2rem;
 	font-weight: 500;
 }
@@ -520,6 +520,7 @@ p {
 	#contact .contact-item .contact-info {
 		width: 100%;
 		text-align: left;
+		font-size: 10px;
 		padding-left: 20px;
 	}
 	/* End contact  */
