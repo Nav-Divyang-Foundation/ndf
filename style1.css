@@ -166,7 +166,7 @@ p {
 }
 
 .kid-image {
-	width: 90%;
+	width: 80%;
 	margin: 20px;
 	box-shadow: 0 0 10px grey;
 	border-radius: 20px;
@@ -460,7 +460,7 @@ p {
 	}
 
 	.kid-image {
-		width: 35%;
+		width: 30%;
 		margin: 7.5%;
 		box-shadow: 0 0 10px grey;
 	}
@@ -505,9 +505,10 @@ p {
 		margin: 0;
 	}
 	#contact .contact-item {
-		width: 30%;
-		margin: 0;
+		width: 23%;
+		margin: 5px;
 		flex-direction: row;
+		overflow-wrap: break-word;
 	}
 	#contact .contact-item .icon {
 		height: 100px;
