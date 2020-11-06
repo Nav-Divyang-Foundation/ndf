@@ -83,6 +83,7 @@ p {
 	list-style-type: none;
 	font-size: 13px;
 	margin: 20px 10px;
+	text-align: center;
 }
 
 .nav-list ul li a {
@@ -156,6 +157,19 @@ p {
 .collage {
 	width: 95%;
 	margin: 2%;
+}
+
+.collage-2 {
+	width: 95%;
+	margin: 2%;
+	text-align: center;
+}
+
+.kid-image {
+	width: 90%;
+	margin: 20px;
+	box-shadow: 0 0 10px grey;
+	border-radius: 20px;
 }
 
 /* Home Section */
@@ -431,8 +445,24 @@ p {
 	/* End Future  */
 
 	.collage {
-		width: 50%;
+		width: 40%;
 		margin: 20px auto;
+	}
+
+	.collage-2 {
+		width: 50%;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.programe {
+		display: flex;
+	}
+
+	.kid-image {
+		width: 35%;
+		margin: 7.5%;
+		box-shadow: 0 0 10px grey;
 	}
 
 	/* Home Section */
