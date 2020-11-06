@@ -259,11 +259,17 @@ p {
 /* End Home Section */
 
 /* Projects section */
+
+#projects {
+	background-image: url("./images/back2.jpg");
+	object-fit: cover;
+}
+
 #projects .projects {
 	font-size: 15px;
 	flex-direction: column;	
 	max-width: 1200px;
-	margin: 20px auto;
+	margin: 0 auto;
 	padding: 20px;
 }
 
